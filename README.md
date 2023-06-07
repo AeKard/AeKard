@@ -1,5 +1,5 @@
-# 👋 EAKARD MOMENTS
-My Brain -> "🙉"
+# 👋 EAKARD MOMENTS 
+My Brain -> "🙉" \n
 My Skill -> "💀"
 My Body  -> "🦴"
 My Hobby -> "🎮" , "🍿"
